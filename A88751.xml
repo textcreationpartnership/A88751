@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last vvill and testament of P. Rupert, vvherein hee disposeth of all his estate here in England, and maketh Sir Thomas Fairfax executor, and Lievetenant [sic] Generall Crumwell, Major Generall Browne, and Colonell Massey overseers of the same will.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88751</idno>
+            <idno type="STC">Wing L523</idno>
+            <idno type="STC">Thomason E304_4</idno>
+            <idno type="STC">ESTC R200305</idno>
+            <idno type="EEBO-CITATION">99861112</idno>
+            <idno type="PROQUEST">99861112</idno>
+            <idno type="VID">113240</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113240)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E304[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last vvill and testament of P. Rupert, vvherein hee disposeth of all his estate here in England, and maketh Sir Thomas Fairfax executor, and Lievetenant [sic] Generall Crumwell, Major Generall Browne, and Colonell Massey overseers of the same will.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682,</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the yeare, 1645. October. 7.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact by Prince Rupert; a satire.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Fiction --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113240:1" rendition="simple:additions"/>
+            <p>The laſt VVill and Teſtament of P. RVPERT, VVherein hee diſpoſeth of all his eſtate
+here in <hi>England,</hi> and ma<g ref="char:EOLhyphen"/>keth Sir <hi>Thomas Fairfax</hi> Executor, and Lievetenant
+Generall <hi>Crumwell,</hi> Major Generall <hi>Browne,</hi> and Colonell <hi>Maſſey</hi>
+Overſeers of the ſame will.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed in the yeare, 1645. October. 7.</p>
+         </div>
+      </front>
+      <body>
+         <div type="will">
+            <pb facs="tcp:113240:2"/>
+            <pb facs="tcp:113240:2"/>
+            <head>The laſt VVill and Teſta<g ref="char:EOLhyphen"/>ment of Prince <hi>Rupert.</hi>
+            </head>
+            <opener>Jn Martis Nomine, Amen.</opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg> Rupert,</hi> Plundermaſter Gene<g ref="char:EOLhyphen"/>nerall, being moſt dangerous ſick, yet of perfect
+memory, and calling to minde the im<g ref="char:EOLhyphen"/>patiality of the times, am ve<g ref="char:EOLhyphen"/>ry well aſſured by co<g ref="char:cmbAbbrStroke">̄</g>mon
+computation, the time of my continuance ca<g ref="char:cmbAbbrStroke">̄</g>not be long; And whereas I have beene prodigall, both of
+the innocents lives &amp; eſtates, and being deſirous ſo neere as I can (now I can doe no
+more miſchiefe) peaceably to depart, &amp; give every man his due: Doe conſtitute and ordaine,
+depute and make this my laſt Will and Te<g ref="char:EOLhyphen"/>ſtament
+<pb n="2" facs="tcp:113240:3"/>in manner and forme following.</p>
+            <p>
+               <hi>Inprimis,</hi> My Will and pleaſure is, and my moſt harty ſuit and requeſt to my
+Execu<g ref="char:EOLhyphen"/>tors hereafter named, that they will bee pleaſed to ſee my Body decently carried be<g ref="char:EOLhyphen"/>yond
+Sea.</p>
+            <p>
+               <hi>Item.</hi> All my Cities, Townes, Caſtles, Forts, and every of my Garriſons by what name
+or title ſoever they bee knowne or called, together with their and every of their rights, members
+and appurtenances, (<hi>Briſtow</hi> onely excepted) my Will and pleaſure is, ſhall bee
+diſpoſed of as the Two Houſes of Parliament in their diſcreſtion ſhall thinke fit and
+appoint.</p>
+            <p>
+               <hi>Item.</hi> Whereas His Majeſty was gratiouſ<g ref="char:EOLhyphen"/>ly pleaſed heretofore, aſwell in
+conſiderati<g ref="char:EOLhyphen"/>on of my good ſervice then done, as for in<g ref="char:EOLhyphen"/>couragement for the future, to confer,
+upon mee <hi>Ex more moti<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> not onely the
+Domi<g ref="char:EOLhyphen"/>nion of <hi>Wales,</hi> but other great and vaſt, Re<g ref="char:EOLhyphen"/>venue to be by me peaceably enjoyed
+when I had utterly deſtroyed Round-headiſme
+<pb n="3" facs="tcp:113240:3"/>both root and branch; and now in regard I find that
+worke infinite, my will and plea<g ref="char:EOLhyphen"/>ſure is, that the ſame be peaceably enjoyed by the true
+owners, and that all the monies and plunder I have here, with a great deale of induſtery gotten,
+bee reſtored to the true owners, except what I have hertofore tranſ<g ref="char:EOLhyphen"/>ported beyond the
+ſeas.</p>
+            <p>
+               <hi>Item.</hi> Whereas my whole eſtate being diſpoſed of as aforeſaid to my poore
+friends, I meane all my friends, I can will &amp; bequeath nothing; onely this, to my confounding
+Damee Lords, my proud papiſtick and A<g ref="char:EOLhyphen"/>thiſtick Prelates and all other of my high qualited
+friends, which were more rich then honeſt, more leaned then religious, I will and bequeath unto
+them, contrition and repentance, and wonderous ſubmiſsive Peti<g ref="char:EOLhyphen"/>tions: and for my ſecond
+ſort of friends that were excellent ſwearers, gallant drun<g ref="char:EOLhyphen"/>kards, and moſt notable
+plunderers, that killed poore contrymen with mouth gunns, I will and bequeath them new Ropes to
+hang themſelves, for it is much ſuſpected the
+<pb n="4" facs="tcp:113240:4"/>old trade of Pimping will never come in fa<g ref="char:EOLhyphen"/>ſhion
+againe. And for the third ſort of Ver<g ref="char:EOLhyphen"/>mine, if Sir <hi>Thomas</hi> ſhould be mercifull unto
+them, I know not what ſervice they can doe him, onely they will ſerve to keepe bullets from
+better men.</p>
+            <p>
+               <hi>Item.</hi> My laſt Legaſie is, my admonition to <hi>Aulicus</hi> my Secretary, which is,
+with ſpeede to repaire to <hi>Britanicus,</hi> and deſire his aſſiſtance in drawing a
+Petition for him to the Baregarden, for the man is very in<g ref="char:EOLhyphen"/>geneous, and in time may come to be
+Clerke of the Challenges.</p>
+            <p>
+               <hi>Item.</hi> I doe by theſe preſents conſtitute, and ordaine Sir <hi>Thomas Fairfax</hi>
+ſole Execu<g ref="char:EOLhyphen"/>tor of this my laſt Will and Teſtament, and for his trouble and charge in
+Execution hereof, I will and bequeath him all my Hor<g ref="char:EOLhyphen"/>ſes, Ammunition and Armes whatſoever,
+whether they be Cannons, Demecannons, Culverines, Sacres, Morterpeeces, Murthe<g ref="char:EOLhyphen"/>rers, Petars,
+Muskets, Pikes, Swords, Drums, Trumpets, <hi>&amp;c.</hi>
+            </p>
+            <pb n="5" facs="tcp:113240:4"/>
+            <p>And laſt, I doe hereby ordaine Overſeers of this my Laſt Will and Teſtament;
+Lieve<g ref="char:EOLhyphen"/>tenant Generall <hi>Crumwell,</hi> Sergent Major Generall <hi>Browne,</hi> and leave each of
+them a Legaſie, which ſhall be at the diſcretion of my Executor.</p>
+            <closer>
+               <dateline>
+                  <hi>In witneſſe whereof, I have hereunto ſet my hand and ſeale,</hi>
+                  <date>
+                     <hi>the</hi> 29. <hi>of</hi> Sep<g ref="char:EOLhyphen"/>tember. 1645.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
